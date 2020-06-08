@@ -1,0 +1,12 @@
+what will be the dollar value of the rupees 1000?
+what will be the dollar value of the euro 100?
+what will be the dollar value of the bitcoin 10?
+what will be the rupees value of the dollar 100?
+what will be the rupees value of the euro 10000?
+what will be the rupees value of the bitcoin 100000?
+what will be the euro value of the rupees 75?
+what will be the euro value of the dollar 80?
+what will be the euro value of the bitcoin 854?
+what will be the bitcoin value of the rupees 3000?
+what will be the bitcoin value of the dollar 5000?
+what will be the bitcoin value of the euro 7000?
